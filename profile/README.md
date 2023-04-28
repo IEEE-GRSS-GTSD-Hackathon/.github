@@ -76,7 +76,6 @@ If your new to github, et help from moderators while uploading your submissions.
 ## Resources
 - [Presentation template](https://docs.google.com/presentation/d/13eojM3VQkw8rYK5CRlY-ayGeVt27GPsyKQVN_KOVFDk/edit?usp=sharing)
 - [Team sheet](https://docs.google.com/spreadsheets/d/1L1b75mf5JftgidHLlmsps3LC1qL0rY0uzaOe5KfeBF0/edit?usp=sharing)
-- 
-
+- [Evaluation Criteria](https://docs.google.com/document/d/1yi9ddOzfT2G5E8vMgKSoumIzCV9dCFB6dLSzxRspwGs/edit?usp=sharing)
 
 
